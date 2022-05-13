@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "tvpeter",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.0.1",
+    "ecpair": "^2.0.1",
+    "tiny-secp256k1": "^2.2.1"
+  }
 }
