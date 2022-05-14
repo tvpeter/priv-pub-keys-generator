@@ -4,7 +4,7 @@ a tiny libray to generate priv/pub keys for bitcoin testnet
 
 ## Installation
 
-Ensure that you have nodejs installed on your system, then clone this repository into a directory of your choice and run npm run generate: 
+Ensure that you have `nodejs` is installed on your system, then clone this repository into a directory of your choice and run `npm run generate-keys`: 
 
 `git clone git@github.com:tvpeter/priv-pub-keys-generator.git`
 
